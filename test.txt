@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A829-0487
+
+ Directory of C:\Users\PAVITHRAN\Desktop\Myproject
+
+07/19/2018  08:45 PM    <DIR>          .
+07/19/2018  08:45 PM    <DIR>          ..
+07/19/2018  08:43 PM    <DIR>          .git
+07/19/2018  08:45 PM                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  53,526,540,288 bytes free
